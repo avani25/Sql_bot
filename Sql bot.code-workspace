@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../langchain-rag-tutorial"
+		},
+		{
+			"path": "../ChatPDF"
+		}
+	]
+}
